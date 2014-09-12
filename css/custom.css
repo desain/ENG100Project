@@ -1,0 +1,25 @@
+/*Custom CSS to help with image sizing and such
+*/
+
+.feature {
+	vertical-align: middle;
+	padding: 30px;
+}
+
+.featurewrapper {
+	padding-top: 20px;
+	padding-bottom: 150px;
+	border-top: thin solid red;
+}
+
+.featureimg {
+	width: 200px;
+}
+
+.floatleft {
+	float: left;
+}
+
+.floatright {
+	float: right;
+}
